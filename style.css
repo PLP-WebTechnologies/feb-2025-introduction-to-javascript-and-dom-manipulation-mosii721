@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: lightblue;
+    padding: 1.5rem;
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+main {
+    line-height: 5.5rem;
+    padding: 2rem;
+    font-size: 1.2rem;
+    
+}
+button {
+    background-color: lightblue;
+    padding: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.0rem;
+}
+div {
+    border-left: 2px solid black;
+    padding: 2.0rem;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+.highlight { 
+    border: 2px dashed black;
+    padding: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+
+footer {
+    background-color: lightblue;
+    padding: 1.5rem;
+    text-align: center;
+    border-top: 3px solid black;
+    font-size: 1.4rem;
+}
